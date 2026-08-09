@@ -26,5 +26,12 @@
     "md5": "5dd1b31cc1e01e46a691ccbfbe169ad8",
     "size": 1161888,
     "notes": "credential-free build; gift unit"
+  },
+  "friendclock-mini": {
+    "version": "1.0.4",
+    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/friendclock-mini-1.0.4.bin",
+    "md5": "efb1912c7f4bb243e5ec6b6e4f292988",
+    "size": 1161632,
+    "notes": "36-LED mini, 1 LED/segment - DIFFERENT layout from the 50-LED units; must never share the friendclock channel"
   }
 }
