@@ -1,37 +1,37 @@
 {
   "momclock": {
-    "version": "1.0.4",
-    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/momclock-1.0.4.bin",
-    "md5": "29d251b2b524a3a0f4a919b7741998c6",
-    "size": 1161888,
-    "notes": "credential-free build; two 50-LED C3 units in NYC"
+    "version": "1.0.5",
+    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/momclock-1.0.5.bin",
+    "md5": "a73ca248ae96deb8290b89a55d35aa00",
+    "size": 1162656,
+    "notes": "provisioning fix: portal input no longer discarded on failure; scan-first ladder. two 50-LED C3 units in NYC"
   },
   "led-clock-bedroom": {
-    "version": "1.0.4",
-    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/led-clock-bedroom-1.0.4.bin",
-    "md5": "7cc7a59e8b0cadd15169144f0a7d2cdb",
-    "size": 1161888,
-    "notes": "credential-free build; CA bedroom"
+    "version": "1.0.5",
+    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/led-clock-bedroom-1.0.5.bin",
+    "md5": "58a62acc58347703a1ff8cdf633cef44",
+    "size": 1162672,
+    "notes": "provisioning fix: portal input no longer discarded on failure; scan-first ladder. CA bedroom"
   },
   "led-clock-bathroom": {
-    "version": "1.0.4",
-    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/led-clock-bathroom-1.0.4.bin",
-    "md5": "62c1f4dd409c805d38336f7d02f9aedd",
-    "size": 1161888,
-    "notes": "credential-free build; CA main bathroom"
+    "version": "1.0.5",
+    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/led-clock-bathroom-1.0.5.bin",
+    "md5": "04f94b8b12f42decddf33b14484a9b5e",
+    "size": 1162672,
+    "notes": "provisioning fix: portal input no longer discarded on failure; scan-first ladder. CA main bathroom"
   },
   "friendclock": {
-    "version": "1.0.4",
-    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/friendclock-1.0.4.bin",
-    "md5": "5dd1b31cc1e01e46a691ccbfbe169ad8",
-    "size": 1161888,
-    "notes": "credential-free build; gift unit"
+    "version": "1.0.5",
+    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/friendclock-1.0.5.bin",
+    "md5": "77a31550e10ad59a41336f63d0ecaa46",
+    "size": 1162656,
+    "notes": "provisioning fix: portal input no longer discarded on failure; scan-first ladder. friend's 50-LED"
   },
   "friendclock-mini": {
-    "version": "1.0.4",
-    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/friendclock-mini-1.0.4.bin",
-    "md5": "efb1912c7f4bb243e5ec6b6e4f292988",
-    "size": 1161632,
-    "notes": "36-LED mini, 1 LED/segment - DIFFERENT layout from the 50-LED units; must never share the friendclock channel"
+    "version": "1.0.5",
+    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/friendclock-mini-1.0.5.bin",
+    "md5": "0779fce64c2f3ed76e2ccf1f94a95820",
+    "size": 1162416,
+    "notes": "provisioning fix: portal input no longer discarded on failure; scan-first ladder. friend's 36-LED; 1 LED/segment, DIFFERENT layout"
   }
 }
