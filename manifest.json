@@ -1,37 +1,37 @@
 {
   "momclock": {
-    "version": "1.0.5",
-    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/momclock-1.0.5.bin",
-    "md5": "a73ca248ae96deb8290b89a55d35aa00",
-    "size": 1162656,
-    "notes": "provisioning fix: portal input no longer discarded on failure; scan-first ladder. two 50-LED C3 units in NYC"
+    "version": "1.0.6",
+    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/momclock-1.0.6.bin",
+    "md5": "402d36d2a644354aa78042cc427b7ea7",
+    "size": 1163664,
+    "notes": "pins association to a 2.4GHz BSSID so a shared 2.4/5GHz SSID cannot band-steer the radio onto a band it cannot join. two 50-LED C3 units in NYC"
   },
   "led-clock-bedroom": {
-    "version": "1.0.5",
-    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/led-clock-bedroom-1.0.5.bin",
-    "md5": "58a62acc58347703a1ff8cdf633cef44",
-    "size": 1162672,
-    "notes": "provisioning fix: portal input no longer discarded on failure; scan-first ladder. CA bedroom"
+    "version": "1.0.6",
+    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/led-clock-bedroom-1.0.6.bin",
+    "md5": "eaa2c6f5fe13a54a2af0937d838f1435",
+    "size": 1163680,
+    "notes": "pins association to a 2.4GHz BSSID so a shared 2.4/5GHz SSID cannot band-steer the radio onto a band it cannot join. CA bedroom"
   },
   "led-clock-bathroom": {
-    "version": "1.0.5",
-    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/led-clock-bathroom-1.0.5.bin",
-    "md5": "04f94b8b12f42decddf33b14484a9b5e",
-    "size": 1162672,
-    "notes": "provisioning fix: portal input no longer discarded on failure; scan-first ladder. CA main bathroom"
+    "version": "1.0.6",
+    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/led-clock-bathroom-1.0.6.bin",
+    "md5": "d0273f17a772f58545b13a3237887053",
+    "size": 1163680,
+    "notes": "pins association to a 2.4GHz BSSID so a shared 2.4/5GHz SSID cannot band-steer the radio onto a band it cannot join. CA main bathroom"
   },
   "friendclock": {
-    "version": "1.0.5",
-    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/friendclock-1.0.5.bin",
-    "md5": "77a31550e10ad59a41336f63d0ecaa46",
-    "size": 1162656,
-    "notes": "provisioning fix: portal input no longer discarded on failure; scan-first ladder. friend's 50-LED"
+    "version": "1.0.6",
+    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/friendclock-1.0.6.bin",
+    "md5": "be33923d8c61b56c8560ee1cd67ff1ad",
+    "size": 1163664,
+    "notes": "pins association to a 2.4GHz BSSID so a shared 2.4/5GHz SSID cannot band-steer the radio onto a band it cannot join. friend's 50-LED"
   },
   "friendclock-mini": {
-    "version": "1.0.5",
-    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/friendclock-mini-1.0.5.bin",
-    "md5": "0779fce64c2f3ed76e2ccf1f94a95820",
-    "size": 1162416,
-    "notes": "provisioning fix: portal input no longer discarded on failure; scan-first ladder. friend's 36-LED; 1 LED/segment, DIFFERENT layout"
+    "version": "1.0.6",
+    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/friendclock-mini-1.0.6.bin",
+    "md5": "d3b7ca24b4310aa9529303a8c872fec1",
+    "size": 1163408,
+    "notes": "pins association to a 2.4GHz BSSID so a shared 2.4/5GHz SSID cannot band-steer the radio onto a band it cannot join. friend's 36-LED; 1 LED/segment, DIFFERENT layout"
   }
 }
