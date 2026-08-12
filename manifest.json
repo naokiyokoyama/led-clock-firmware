@@ -28,10 +28,10 @@
     "notes": "pins association to a 2.4GHz BSSID so a shared 2.4/5GHz SSID cannot band-steer the radio onto a band it cannot join. friend's 50-LED"
   },
   "friendclock-mini": {
-    "version": "1.0.6",
-    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/friendclock-mini-1.0.6.bin",
-    "md5": "d3b7ca24b4310aa9529303a8c872fec1",
-    "size": 1163408,
-    "notes": "pins association to a 2.4GHz BSSID so a shared 2.4/5GHz SSID cannot band-steer the radio onto a band it cannot join. friend's 36-LED; 1 LED/segment, DIFFERENT layout"
+    "version": "1.0.8",
+    "url": "https://raw.githubusercontent.com/naokiyokoyama/led-clock-firmware/main/firmware/friendclock-mini-1.0.8.bin",
+    "md5": "8325f2d807d9c33b018b88cdcafee756",
+    "size": 1166544,
+    "notes": "brownout-aware boot: a weak supply no longer wipes display settings, and each brownout backs brightness off a notch. also refuses to re-download a firmware that was already rolled back. friend's 36-LED; 1 LED/segment, DIFFERENT layout"
   }
 }
